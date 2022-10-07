@@ -151,7 +151,7 @@ body {
 .mail-offer-select {
     text-align: center;
     color: #EB5628;
-    font-size: 20px;
+    font-size: 24px;
     padding: 16px;
     margin: 0 auto;
 }
@@ -201,6 +201,7 @@ body {
 }
 .mail-header-footer{
     font-size: 12px;
+    line-height: 16px;
     padding: 23px 15px;
     padding-top: 15px;
     margin: 0px;
